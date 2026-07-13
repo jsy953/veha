@@ -38,7 +38,7 @@ export function Contact() {
             Discutons de votre prochain site.
           </h2>
 
-          <div className="mt-10 flex flex-col items-center gap-4 sm:flex-row sm:justify-center">
+          <div className="mt-10 flex flex-col items-center gap-6 sm:flex-row sm:justify-center sm:gap-4">
             <Magnetic>
               <a
                 href={`mailto:${EMAIL}`}
